@@ -1,0 +1,40 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+    line-height:60%;
+    
+}
+p{
+    font-size: 25px;
+}
+section{
+    display: flex;
+}
+section img{
+    width: 100%;
+    height: 90%;
+    
+}
+.top-section{
+    width: 50%;
+    padding-left: 40px;
+    padding-top: 20px;
+
+}
+.span-tag{
+    color: orange;
+}
+#top{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.link-tag{
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(tomato,orange);
+    font-size: 20px;
+    padding: 10px 40px;
+    border-radius: 50px;
+}
