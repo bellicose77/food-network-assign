@@ -62,3 +62,16 @@ p{
 #about-p{
     margin-bottom: 90px;
 }
+footer
+{
+    color: white;
+    background-color: black;
+    padding: 1px 7px 7px 7px;
+}
+footer h2{
+    font-size: 25px;
+    text-align: center;
+}
+footer p{
+    text-align: center;
+}
