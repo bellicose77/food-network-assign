@@ -41,6 +41,7 @@ li a {
   
 .first-section{
     display: flex;
+    margin-top:20px;
 
 }
 .first-img{
