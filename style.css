@@ -1,5 +1,7 @@
+
 body{
     font-family: 'Poppins', sans-serif;
+
 }
 h1{
     font-size: 50px;
@@ -48,14 +50,12 @@ p{
     background-image: url('images/shapes/7.png');
     background-repeat: no-repeat;
     background-size: 100%;
-    margin-right: -1%;
+
   
 }
 .second-img{
    width:60%;
    height: 80%;
-   padding : 20px;
-   padding-left: 50px;
 
 
 }
@@ -66,7 +66,9 @@ p{
     text-align: center;
 }
 .third-section p{
+    text-align: justify;
     text-align: center;
+    font-size:15px;
     margin-bottom: 7%;
 }
 .recipie{
@@ -76,15 +78,14 @@ p{
 }
 
 .recipie-item{
-    width: 33%;
+    width: 40%;
     padding: 15px 40px ;
-    margin-left: 5%;
-    margin-right: 5%;
-    box-shadow: 15px 15px 30px gray;
+    margin: 5px 5px;
+    box-shadow: 0 0 10px gray;
     border-radius: 20px;
  }
  .recipie-item img{
-    width: 200px;
+    width: 100%;
     padding: 25px 10px;
 }
  .third-section .recipie .recipie-item .text h1{
@@ -100,20 +101,23 @@ p{
  .fouth-section{
      display: flex;
      box-shadow: 10px 10px 20px gray;
+     padding: 20px 20px;
      margin-bottom: 5%;
  }
  .follwers{
      width: 33%;
-     margin-left: 5%;
-     margin-right: 5%;
+     padding-left: 30px;
+     margin:0;
+     border-radius: 20px;
      
  }
 footer
 {
+
     color: white;
     background-color: black;
     padding: 1px 7px 7px 7px;
-    margin-right: -1%;
+    margin: 0;
 }
 footer h2{
     font-size: 25px;
