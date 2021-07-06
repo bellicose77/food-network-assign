@@ -27,12 +27,12 @@ ul{
 li{
     text-decoration: none;
     float: left;
-    padding: 20px;
+    padding: 10px;
     color: white;
 }
 li a {
     display: block;
-    color: white;
+    color: orange;
     text-align: center;
     padding: 16px;
     text-decoration: none;
